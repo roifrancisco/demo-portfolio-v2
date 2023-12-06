@@ -1,0 +1,60 @@
+div{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+h1{
+    color: green;
+    font-size: 100px;
+}
+p{
+    font-size: 40px;
+}
+
+img{
+    height: 100%;
+    width: 100%;
+}
+
+/* @media screen and (min-width: 780px)  {
+    .full-width-img {
+    margin: auto;
+    width: 10%;
+    }
+} */
+
+/* @media screen and (min-width:780px) and (max-width:1024px) {
+    body{
+        background-color: yellow;
+    }
+}
+
+
+.c-newspaper {
+    display: grid;
+    grid-template-columns: 0.2fr 0.6fr 0.2fr;
+    grid-template-areas:
+      "item-1 featured item-2"
+      "item-3 featured item-4"
+      "item-5 item-6 item-7";
+    grid-gap: 1rem;
+  }
+  
+  .c-article--1 {
+    grid-area: item-1;
+  }
+  
+  .c-article--2 {
+    grid-area: item-2;
+  } */
+  
+  /*..And so on for other elements.. each one has a grid-area..*/
+  
+  /* .c-article--7 {
+    grid-area: item-7;
+  }
+  
+  .c-article--featured {
+    grid-area: featured;
+  } */
